@@ -1,0 +1,699 @@
+"edge_id","street_name","street_type","block_start_location","sidewalk_quality","lighting_density","business_activity"
+18039,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817713,-84.3817051",7,4.374554455505538,15
+4307,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7814405,-84.3866788",4,4.006495028096911,13
+10516,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7814745,-84.3859123",2,4.267968853810861,13
+12058,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817682,-84.3820545",5,0.3911470749324908,11
+22827,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817737,-84.3815157",6,1.7895638512200684,16
+4053,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7814377,-84.3876536",4,1.6931430645637258,8
+14524,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815073,-84.3868106",10,3.420413280441197,15
+10515,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7814407,-84.3864084",9,3.185892965570316,12
+9414,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815071,-84.3864078",7,0.033544408457313324,13
+19134,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817196,-84.3834692",7,1.3224367759989353,3
+21705,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817559,-84.3824946",7,1.6901500218872667,18
+12558,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817082,-84.38392",1,0.3661743807402007,11
+21181,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817303,-84.384134",2,0.5602792210661445,7
+15918,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7814747,-84.3859517",9,4.478816269159541,12
+16530,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815214,-84.3878214",2,1.482976012078322,9
+829,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817174,-84.3835723",8,1.1491002459332411,9
+5880,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817684,-84.3820296",3,3.216016097622015,14
+16887,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817448,-84.382594",5,0.13562484209555192,5
+19543,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817329,-84.3830291",3,2.014310690234508,7
+17068,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817559,-84.3824946",2,2.912620975517324,8
+16161,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815867,-84.3876946",9,2.9351135291387576,17
+8534,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817186,-84.3840244",4,1.8469709963650494,18
+17310,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7817646,-84.3824189",9,0.01799210495647796,5
+11200,"10th Street Northeast",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815775,-84.3849194",1,3.078243630740297,8
+19399,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815076,-84.3893874",1,1.8751467922349851,13
+8024,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815039,-84.387938",7,1.4002991844709023,16
+4142,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815072,-84.3884747",10,4.708989514600544,8
+3197,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815071,-84.3892842",3,4.470332210919928,11
+5009,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815214,-84.3878214",3,2.4290753689673106,19
+16801,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815064,-84.3891731",9,4.121103443456336,7
+21836,"10th Street Northwest",secondary,"https://www.google.com/maps/search/?api=1&query=33.7815065,-84.3890519",2,0.6806663529596269,10
+20763,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7759977,-84.3863829",1,3.3116959435674618,8
+9377,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7759569,-84.3861174",9,0.4615177160838757,7
+7828,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761894,-84.3864197",3,3.455606280913992,1
+5913,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761669,-84.3864064",7,0.4219503420911186,5
+18036,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761636,-84.3863571",1,3.015757149417304,2
+19695,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761314,-84.3863603",1,2.5665539012294136,15
+9112,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761681,-84.386423",6,0.07253704889830237,18
+21027,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761322,-84.3863718",8,2.5502938391589325,15
+21562,"5th St. Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7761883,-84.3864045",9,3.034689341598625,0
+18026,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7784899,-84.3837037",1,0.8897787311028282,9
+7800,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786503,-84.3861579",6,4.340898046107348,2
+16277,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7785227,-84.384307",6,4.84495760886187,14
+7139,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7787244,-84.3871723",4,0.45302784423120523,3
+2249,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7785194,-84.3844381",10,0.3683735969023194,8
+14137,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.778427,-84.382736",4,4.452086034887223,14
+16562,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786134,-84.3857118",3,4.230713627651003,10
+20717,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.778523,-84.3842255",10,1.124826190706525,12
+21790,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7784328,-84.3828249",7,2.0277360845402006,11
+12677,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7784214,-84.3826511",2,3.7896621838939515,0
+7521,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7783359,-84.3813282",10,1.6580144172304645,6
+14981,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786654,-84.3863582",4,3.7740651506840672,16
+12145,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786543,-84.386207",2,1.9086085509989903,8
+9859,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786294,-84.3858213",5,4.509696094315845,9
+22345,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7786212,-84.3857588",5,1.9367887151149343,4
+13837,"7th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7783775,-84.3819843",3,1.450275150254977,12
+13463,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795307,-84.3818772",3,4.036973460708491,15
+15403,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795302,-84.3845996",6,0.933813905720301,9
+11461,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795467,-84.387165",10,4.895583870175293,16
+1243,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795271,-84.3843022",5,3.889669091373672,15
+22698,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795166,-84.3827502",3,1.2263340578824755,6
+9772,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795454,-84.3856933",6,3.3383362158741026,19
+2063,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.779526,-84.384212",1,3.3383338562704,16
+20465,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.779523,-84.382634",6,3.1278767073713,7
+24279,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795196,-84.3832824",1,1.0698819097928058,8
+3333,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.77952,-84.3833417",4,3.8066276502334775,9
+13147,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795478,-84.3861641",9,0.9863536134355577,16
+24046,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795261,-84.3825669",7,2.237689327943475,9
+20219,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795255,-84.3841232",9,0.05198718833427818,12
+19909,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795464,-84.3868133",9,0.7931776414801195,12
+19873,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.779542,-84.3856369",7,3.8755187192628604,2
+4410,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795207,-84.3834396",10,1.200386307178325,1
+4598,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795473,-84.3866393",4,4.283526676991323,10
+17137,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795503,-84.3872751",9,0.6252157018151927,13
+5263,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795376,-84.3852722",3,1.5034793714205463,12
+23449,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795354,-84.3850744",9,4.897005301711074,13
+10612,"8th Street Northeast",residential,"https://www.google.com/maps/search/?api=1&query=33.7795463,-84.385745",3,2.286325765302737,11
+1156,"8th Street Northwest",footway,"https://www.google.com/maps/search/?api=1&query=33.7796474,-84.3904544",7,2.4892506752567667,4
+10862,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795677,-84.3887433",1,2.9032631538583087,7
+8301,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795503,-84.3872751",5,1.585532755320217,18
+21531,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795488,-84.3874228",2,0.6427124139572171,6
+11017,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795628,-84.3889378",4,1.9477949976873843,18
+18418,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795655,-84.3888227",1,1.8395067560333045,3
+15908,"8th Street Northwest",residential,"https://www.google.com/maps/search/?api=1&query=33.7795611,-84.3881437",1,4.991024875564784,5
+22010,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7811214,-84.3835053",7,4.2037867859393305,17
+20349,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813995,-84.3835427",10,1.244278295292357,19
+13079,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7811065,-84.3832788",4,2.5917184592284404,8
+3313,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815471,-84.3832885",3,0.5083386135091117,11
+6439,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815026,-84.3839161",6,3.4149396169982884,13
+9704,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7814247,-84.383925",5,2.2823154165089585,10
+12902,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7814208,-84.3838521",3,3.9058439528425746,5
+21131,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813942,-84.3831973",9,0.9425283222215675,15
+3077,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7814447,-84.3832359",10,0.9201555634548508,15
+1835,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7812407,-84.383209",3,3.7479772044610327,7
+13037,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807803,-84.3833077",4,2.5823463200388264,16
+24395,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815813,-84.3839071",3,2.445534902850376,11
+8646,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813627,-84.3831371",10,2.9019606882545403,5
+13170,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.781416,-84.3837795",10,4.01119493326374,8
+3837,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7812443,-84.3832665",1,1.5744171704186893,17
+14878,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815883,-84.3837467",10,2.9042573922279455,8
+22192,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815891,-84.3831167",6,1.6281686639246395,11
+10711,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807902,-84.3834581",4,2.618918042538482,5
+13582,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813903,-84.3831346",9,2.334242363979,7
+19025,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815452,-84.3839112",7,3.8751546044025584,4
+557,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7810674,-84.3835104",8,0.8348269352489224,16
+4155,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7814484,-84.3832969",6,0.05645938754969437,1
+22525,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7812778,-84.3831446",8,2.057239868226323,11
+10308,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7810201,-84.3832865",3,3.547432611828377,1
+11822,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.781593,-84.3831798",7,0.8486975627358961,7
+12114,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7814421,-84.3831931",9,3.8140769058225112,3
+6025,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.781237,-84.3831482",10,4.20152044192505,13
+22726,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815511,-84.3832878",1,1.3108305918198815,7
+23072,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807849,-84.3833774",5,4.974499618438789,11
+17644,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813955,-84.3834802",4,4.7691372793775235,9
+7766,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7816167,-84.3831142",1,3.7294356628341574,11
+11538,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7810525,-84.383284",3,3.4383829664856878,4
+5172,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813115,-84.3831416",7,2.2934224377127945,15
+15290,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815976,-84.3835626",9,2.1608245974654396,16
+6773,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807913,-84.3834744",10,4.828575446531646,11
+15899,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807953,-84.3835346",3,1.2634645237699882,12
+9358,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7807861,-84.383395",1,0.8749812094332743,17
+2383,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7815448,-84.383184",8,1.234445162990705,0
+21765,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.781036,-84.3835129",5,2.1479233328775162,1
+12697,"999 Peachtree Plaza",pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813571,-84.3834838",2,1.406795447497281,3
+350,Abercrombie Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7780329,-84.3879977",7,4.807855180028591,5
+5905,Abercrombie Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7780241,-84.3874233",8,4.345401948707744,17
+7515,Abercrombie Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7780446,-84.3886967",3,2.436723455977865,18
+2040,Abercrombie Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.778021,-84.387291",8,0.9957386481826702,17
+19366,Armstead Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7758818,-84.3874433",3,0.6174645879740925,4
+1496,Armstead Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.775881,-84.387313",8,1.9683164719112134,17
+7045,Armstead Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7758851,-84.3887208",3,0.8525191492784168,15
+15917,Art Walk Crosswalk Mural,footway,"https://www.google.com/maps/search/?api=1&query=33.7814793,-84.3864081",10,0.14108403996933472,9
+4308,Art Walk Crosswalk Mural,footway,"https://www.google.com/maps/search/?api=1&query=33.7814006,-84.3864087",8,1.3473461914622953,15
+16464,Art Walk Crosswalk Mural,footway,"https://www.google.com/maps/search/?api=1&query=33.7815071,-84.3864078",10,2.0367263032901373,8
+8018,Art Walk Crosswalk Mural,footway,"https://www.google.com/maps/search/?api=1&query=33.7814407,-84.3864084",3,2.0627627712266094,7
+17491,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7708632,-84.38518",8,3.147369656407447,1
+1376,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711446,-84.3861293",3,0.7642350820792665,13
+12215,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710319,-84.3872094",3,2.4577053320491316,3
+14002,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711685,-84.3852654",2,2.896720768541975,15
+14005,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710922,-84.3860261",6,3.04809693937216,2
+21973,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7709884,-84.3871571",8,2.2356745101958806,4
+5573,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711325,-84.3862897",4,4.982272380258088,19
+11155,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711474,-84.3864107",3,3.9746238534306153,5
+2933,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711306,-84.38599",6,0.7592601097808482,0
+1791,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710933,-84.3861273",5,4.613822435086929,15
+95,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7709399,-84.386424",7,2.148782152220774,11
+9001,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710944,-84.3862311",6,2.730656480420215,16
+12819,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710129,-84.3864121",6,3.113100697492012,6
+23354,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7710776,-84.3872515",3,1.8689957235662957,12
+1406,Bank of America Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7711723,-84.3856794",2,1.7697907909500632,15
+20157,Bank Of America Plaza Walkway,footway,"https://www.google.com/maps/search/?api=1&query=33.7711104,-84.3861273",4,3.411536096307597,3
+6001,Bank Of America Plaza Walkway,footway,"https://www.google.com/maps/search/?api=1&query=33.7708741,-84.3865551",3,2.6167916321336793,6
+13913,Bank Of America Plaza Walkway,footway,"https://www.google.com/maps/search/?api=1&query=33.7711095,-84.386023",9,0.9860664605884906,0
+21094,Bank Of America Plaza Walkway,footway,"https://www.google.com/maps/search/?api=1&query=33.7711115,-84.3862558",1,1.350237486438558,13
+1018,Biltmore Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7775637,-84.3874125",2,1.9477643934121514,0
+4286,Biltmore Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7775696,-84.387666",7,1.2173183628789175,6
+7745,Biltmore Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7775536,-84.3872945",10,4.42568388851964,0
+4287,Biltmore Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7775891,-84.3887072",7,0.18664580545860954,10
+14824,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808365,-84.3842163",4,3.9953849872718217,17
+7153,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809187,-84.3845512",3,4.975696575378489,4
+6285,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808517,-84.3842163",3,4.3022464929954385,1
+22631,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808354,-84.3845513",6,3.5364144455045787,12
+6575,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808797,-84.3842163",1,0.21498230612599145,4
+6684,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809317,-84.3842161",4,2.536858090671007,18
+14734,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808809,-84.3845512",3,0.2691821579169318,5
+16070,Commercial Row Commons,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809177,-84.3842389",7,3.3232332672630074,5
+7359,Courtland Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7711793,-84.3834983",2,0.7764005218794856,0
+4278,Courtland Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7712856,-84.3834571",6,1.4246861784602372,1
+9662,Crescent Avenue Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7814799,-84.384887",3,1.4949622632253345,10
+12710,Crescent Avenue Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.780885,-84.3846557",4,1.8465670234056342,3
+22040,Crescent Avenue Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.781176,-84.3847488",8,0.04136113372022687,6
+22088,Crescent Avenue Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7812866,-84.384799",7,2.78420351331798,4
+7842,Crescent Avenue Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7815775,-84.3849194",3,1.260124368564839,19
+21328,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7738507,-84.3863963",7,4.609713394482742,6
+989,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7786212,-84.3857588",2,1.6909357011233506,17
+1037,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750791,-84.3861171",3,1.4537844078930207,13
+23289,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7743526,-84.3861645",10,2.0055473836312188,8
+23133,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7762542,-84.3859975",7,4.575354019311247,18
+22232,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7779694,-84.385822",3,3.7374169396664514,15
+22094,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737544,-84.3862159",9,4.455808773069755,19
+21757,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7759244,-84.3860288",6,3.3487202599735078,11
+21638,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7744165,-84.3862643",1,3.8187955206762156,14
+10611,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7794984,-84.385691",10,3.9006139691600685,14
+2977,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7771879,-84.3858987",4,4.5839176623784255,19
+3587,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7795971,-84.3856977",9,1.9424146457125813,16
+18228,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7786824,-84.3857546",7,4.169510559784331,14
+18158,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7739705,-84.3863681",8,1.5727941888340102,10
+16624,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7747128,-84.3861652",7,0.1893628094334321,5
+16563,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7785711,-84.3857648",5,3.5363416082169294,13
+5423,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7747128,-84.3861652",2,1.5024726475171835,15
+6125,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7743589,-84.3862791",7,3.8638815161874374,19
+6453,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7769009,-84.3859292",2,2.7648306306720762,1
+15571,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7766107,-84.38596",8,3.7299931136219513,13
+15408,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7749362,-84.3861338",6,1.1573107340464106,7
+14804,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7763076,-84.3859922",1,4.346349712092654,2
+7235,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7743027,-84.3861687",7,1.557620142086772,19
+7512,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7790999,-84.3857221",8,1.7635437812516097,13
+7579,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750103,-84.3861242",1,4.927405839019504,12
+7727,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7779822,-84.3858208",10,1.585884347183032,10
+7798,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7744097,-84.3861605",7,1.7123428291268616,3
+13941,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7738392,-84.3862086",8,4.74456828631511,19
+13895,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7795454,-84.3856933",1,0.6691012774870797,7
+13857,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7739564,-84.3861985",10,2.4959872442753106,15
+8189,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774541,-84.385871",8,2.4848375813317913,3
+8712,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.775599,-84.3860596",3,0.6254646932118346,3
+9221,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807163,-84.3855918",3,4.126544396307576,11
+12444,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7775464,-84.3858622",5,4.22223852265824,3
+9426,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7799999,-84.3856618",3,1.617950720821314,13
+9673,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7801376,-84.3856509",4,3.6219735225230743,4
+9950,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7762017,-84.3860027",7,4.418629482702745,8
+11851,Cypress Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774123,-84.3858749",1,1.7841629535324532,5
+6846,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7761609,-84.3846188",5,1.5732603401354395,1
+15386,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.776334,-84.387309",4,0.13940511130586142,13
+1454,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.776155,-84.384531",1,0.4698674725069285,9
+8237,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7761858,-84.3849901",2,0.524528420259277,8
+12122,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.776049,-84.38296",4,3.7860072743401307,12
+2112,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7760826,-84.3834585",10,3.86514271081822,2
+21729,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7760561,-84.3830622",8,1.512083721908658,6
+21726,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7762371,-84.3857437",4,1.2772195934832598,8
+17846,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7761012,-84.3837333",1,0.7992827898940968,18
+9862,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.776285,-84.3864701",7,0.5323549463497046,10
+805,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7759548,-84.3815466",1,3.0101430817163086,11
+7686,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7761499,-84.3844555",9,1.3748063245963904,2
+9023,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7760435,-84.3828788",6,1.1082748100596163,9
+8447,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7763333,-84.3871764",5,3.245372750720894,9
+1465,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7762542,-84.3859975",9,0.1918809606076599,6
+24097,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.776251,-84.385947",1,4.090214793835737,0
+9727,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7760069,-84.3822163",7,2.412871730436874,0
+9949,Fifth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7762573,-84.3860458",6,2.3780073093831087,16
+2463,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.7768441,-84.3889004",10,2.092239647730587,8
+11673,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.7768232,-84.3877317",9,0.021202193841515227,8
+10567,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.776842,-84.388793",8,2.699889218732677,4
+2983,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.7768396,-84.388703",4,2.41413719235529,12
+9168,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.776817,-84.3874139",3,1.6606776448650429,4
+19462,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.7768191,-84.3875042",10,2.022399778989452,16
+14668,Fifth Street Northwest,tertiary,"https://www.google.com/maps/search/?api=1&query=33.776815,-84.387303",4,2.6928772623273787,18
+6837,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.774916,-84.3846522",2,0.03611202955504211,15
+14458,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7748725,-84.3839916",4,1.7566364416168323,4
+24171,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7747671,-84.3823335",8,3.7010482108131226,6
+17542,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7749102,-84.3845745",9,2.4980046262642484,10
+4768,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7748097,-84.3829948",4,3.8004336129722893,8
+17933,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.774815,-84.383077",6,0.8951132910569071,11
+4542,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7748556,-84.3837286",8,2.0399246497312786,9
+4491,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7748212,-84.3831686",8,3.7566626296036922,10
+4459,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750152,-84.3862044",7,0.08460899748547912,3
+10246,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7747248,-84.3816717",6,4.7818190804218155,1
+18684,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750439,-84.3866715",3,1.3818107679253555,16
+3997,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7746805,-84.380978",10,4.115153698283622,12
+20337,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7748052,-84.3829241",3,1.132797435778009,6
+12745,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.774843,-84.3835129",7,4.258909094936191,18
+12528,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750103,-84.3861242",7,0.5482926330330362,16
+12369,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7749212,-84.3847349",5,2.2474972543395144,2
+21999,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750431,-84.3866577",8,2.512246497323943,5
+22454,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750465,-84.3867152",8,0.08871542682443168,9
+15407,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750042,-84.3860271",7,2.408339304503121,19
+15649,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7750782,-84.3872067",10,0.8668517701528589,18
+439,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.774718,-84.381566",8,0.5845769251572597,1
+479,Fourth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7747129,-84.3814912",1,2.1637801629002062,19
+23978,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751105,-84.3881559",5,1.5405229975008161,2
+17757,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751092,-84.3879514",4,0.11140100138651743,10
+5259,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751144,-84.3887359",5,0.34403861827616566,7
+11545,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751099,-84.3880842",3,4.341387882717945,18
+14207,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7750909,-84.3873221",9,3.4755149267291308,1
+14079,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.775115,-84.388818",2,0.2951916499786278,14
+22077,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751156,-84.3889207",2,0.7549888805605209,9
+2365,Fourth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7751032,-84.3874463",6,3.9896250765796824,12
+6410,Jack Guynn Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7819306,-84.3843632",6,4.065763628113407,18
+2605,Jack Guynn Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7819961,-84.3841948",5,4.71514528715905,5
+19053,Jack Guynn Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7819856,-84.3845088",2,2.8444721018116716,1
+8794,Jack Guynn Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7820387,-84.3841908",4,2.616805491049007,13
+5513,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.776049,-84.38296",10,4.632073550400973,8
+2027,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.779523,-84.382634",1,2.9641260948200454,0
+11139,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7803196,-84.3825837",4,2.673348777245226,9
+21977,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7742381,-84.3831312",8,1.5536723726698254,0
+16396,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7817559,-84.3824946",7,2.9899550986567967,6
+22697,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7795934,-84.3826295",10,0.8313950081650323,6
+7426,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7818487,-84.3824888",5,0.4978433191156473,1
+16235,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7763549,-84.3829263",7,0.2775485536619726,2
+6153,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7806702,-84.3825688",4,1.6305706527307318,11
+11202,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7797416,-84.3826201",1,1.7886211901612548,14
+15047,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7772592,-84.3828269",2,2.7649359139144094,19
+14555,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.774815,-84.383077",2,1.3143292603545598,5
+16357,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7772065,-84.3828327",8,1.7974596056738745,4
+20139,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7791069,-84.3826733",5,3.2815978007402578,17
+3301,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7783799,-84.3827397",5,2.4344943643855235,14
+20086,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7735455,-84.3831968",5,3.4814946484265175,1
+3109,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7812432,-84.3825395",10,1.5003825363988255,16
+2973,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7736521,-84.3831867",10,1.5107143400444323,3
+24168,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.778427,-84.382736",8,4.726108758781997,16
+21454,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7740562,-84.3831515",8,4.476841087621297,19
+21401,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7735845,-84.383193",7,1.574168435006632,17
+13834,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7744113,-84.3831149",6,1.8657057637382257,12
+18351,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7822361,-84.3824391",8,3.414209224951229,6
+9064,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7794885,-84.3826373",8,1.3612221854223405,14
+12676,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.778489,-84.3827302",7,1.2612742131712562,14
+10130,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7816625,-84.3825017",6,1.7202619997385937,5
+11665,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7789087,-84.3826867",3,4.978763852628042,4
+42,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7741186,-84.3831461",2,2.88555868424216,2
+4767,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7759855,-84.382966",5,3.587561694396131,4
+1168,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7725379,-84.3832945",8,1.4178531097741331,2
+21730,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7761151,-84.3829527",10,0.08984323661295646,8
+9649,Juniper Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7772996,-84.3828227",9,1.8393600154935108,13
+6336,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808355,-84.3860727",6,1.6470362659847615,4
+1785,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813086,-84.3867901",5,4.1908615263132365,17
+3119,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.781399,-84.3864088",2,0.7415656726151842,3
+3281,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808324,-84.3867884",8,2.950600736393664,11
+3537,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809209,-84.3866747",10,1.2530986571869773,5
+5233,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813104,-84.3860744",6,4.850511084298579,17
+6379,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813832,-84.3860747",5,3.357676084737186,7
+6448,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7808253,-84.3866739",2,3.036514069609828,6
+7255,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809207,-84.3867681",7,3.4587385623955913,12
+7273,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809206,-84.3867887",4,4.6093332133875276,9
+9779,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813822,-84.3867904",10,0.31989128800201105,12
+11382,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813983,-84.3866784",3,4.778228674310439,12
+11997,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813981,-84.3867905",9,2.8896875584145354,11
+15380,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809211,-84.3865987",4,1.063069193786802,19
+17062,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809224,-84.386073",5,3.0133575747893957,15
+19287,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813091,-84.3866009",2,3.0312031800949457,0
+19401,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.780922,-84.3862183",6,0.5536216467532429,3
+21960,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7809217,-84.3863426",7,0.45784206386078385,13
+22561,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813086,-84.3867697",1,1.083664241073301,1
+23651,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813089,-84.3866777",3,1.8371268985068878,6
+24093,MARTA - Midtown Transit Station Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7813097,-84.386345",7,1.1951958619052472,19
+16246,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725389,-84.3875024",3,4.937703218211581,16
+7404,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.772456,-84.3879953",7,4.946440730147572,3
+16205,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725426,-84.3878873",2,0.5126837320589628,4
+7353,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726461,-84.3877566",6,3.7205690621022205,0
+14687,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724474,-84.3878746",5,3.449060852483953,5
+11921,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726468,-84.3878823",7,0.21468611811499616,15
+7223,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726202,-84.3879192",1,3.1918888650218955,4
+384,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731202,-84.3874975",3,0.217322590714063,14
+15762,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725425,-84.3878626",8,0.26506054925756306,14
+1609,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725425,-84.3878699",9,4.917183212768995,14
+14938,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724848,-84.3878628",7,2.0817101641062843,11
+14950,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7727911,-84.3875003",2,0.9946724673181928,10
+1661,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724973,-84.3875027",3,0.13469652942516563,13
+1834,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725921,-84.3879196",10,0.5089491139177071,14
+1977,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726658,-84.387729",4,1.5974740914748964,0
+12332,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730216,-84.3874983",6,4.604294523802919,15
+23332,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724385,-84.387751",6,4.559657237648759,16
+21218,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.77289,-84.3877264",10,3.7591174762732713,2
+12687,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724204,-84.3875034",10,1.0626089050181586,11
+20641,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724858,-84.3879946",10,1.4365046418278882,8
+1062,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725424,-84.3878543",10,1.2034498726399234,1
+20586,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7728197,-84.3875",1,2.0021503255135773,8
+20474,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726057,-84.3879194",1,3.5648750796494277,6
+3199,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726238,-84.3877298",1,2.7438147544119795,1
+3506,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724847,-84.3878548",8,3.2440148082465248,5
+20130,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724397,-84.3877668",3,0.7633195627870504,1
+22958,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.772647,-84.3879188",9,0.7861310643703012,1
+20053,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726528,-84.3877294",1,2.2353278636659892,5
+8670,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731391,-84.3875819",8,2.897184700484269,6
+19418,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724228,-84.3875368",1,3.0337939753456977,12
+4061,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731393,-84.3876988",9,1.2479095293523668,14
+19197,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731393,-84.3876671",7,2.533701477159532,14
+18863,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731021,-84.3874977",3,1.8687305673455468,15
+18675,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724246,-84.3875615",3,3.521105786439737,4
+18608,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726463,-84.3877878",10,3.3171627369226186,17
+4727,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7726462,-84.3877697",7,2.2719552723011405,10
+631,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730541,-84.3877244",5,1.1065085916027884,12
+4965,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724972,-84.3878547",8,3.2778370651566746,18
+8309,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724465,-84.387863",10,3.710325876569849,3
+17485,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729377,-84.387499",10,3.4720640551924054,14
+17428,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.772446,-84.3878548",8,1.0021605038185,11
+1217,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724295,-84.3876289",8,1.9003112879688033,11
+16916,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7728165,-84.3877276",3,3.375581572703499,15
+16841,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725505,-84.3879201",2,1.3924060877957445,9
+5270,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7728547,-84.3877269",5,0.15723807646758292,16
+22719,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724367,-84.3877281",1,3.937833850931045,16
+1366,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724849,-84.3878749",3,2.272886824662951,2
+24374,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.773139,-84.3874973",6,3.319268813140941,2
+14381,Norfolk Southern Headquarters Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7728493,-84.3874998",3,3.858758524454251,3
+22891,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.771695,-84.3872752",3,4.759547935096563,2
+2616,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7722198,-84.3870895",3,0.16489123300610142,2
+8881,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7719476,-84.3869868",4,0.5153589870859987,2
+21713,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7720289,-84.386981",7,4.951058158687838,0
+14965,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721629,-84.3868351",7,0.04484092580938959,19
+17677,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7722116,-84.3868799",3,0.9296185650700073,1
+21019,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7719745,-84.3869849",1,2.011676842860054,8
+19687,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7722254,-84.3872318",4,2.7523236448256205,2
+9131,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7714199,-84.3871736",1,2.956289740145601,18
+18889,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7714798,-84.3871693",8,2.8407533132121774,3
+14885,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7718359,-84.3871441",10,0.3998352198767263,17
+4655,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7714209,-84.387223",2,1.8960859114415451,2
+2149,North Ave MARTA Station - Urban Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721354,-84.3868357",1,3.4704120039570094,2
+7164,North Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.77133,-84.3817796",5,1.5040243926588703,2
+5944,North Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7712808,-84.3814454",2,1.5892709108177427,1
+9185,North Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7712811,-84.381893",6,1.3962878202914808,19
+5016,North Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7712298,-84.3817682",3,4.436806323518235,6
+16211,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807631,-84.3859103",3,3.165397776954142,4
+14237,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807617,-84.38618",2,2.7113483115774475,16
+13855,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807951,-84.3841952",3,2.4963133455138076,2
+8684,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807593,-84.3866734",10,3.9345099986944856,8
+7658,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807932,-84.3846609",4,2.765243396668653,17
+7990,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807473,-84.3873821",3,0.18244591270149102,14
+15427,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7806866,-84.3828247",4,3.2082201092966334,14
+7098,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807669,-84.3840005",9,1.7800680707153327,5
+19305,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7806999,-84.3830489",7,2.438759581834952,17
+24187,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807107,-84.383231",1,2.2350713454550375,3
+22225,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807638,-84.3856759",7,3.6026655187931658,16
+9986,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7806959,-84.3829812",10,3.9084576748458955,6
+10649,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807577,-84.3868259",8,2.647063460160295,11
+5472,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807628,-84.3859887",5,2.835045657380091,10
+10627,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807581,-84.3867403",9,0.23676129449128003,14
+9222,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807845,-84.3852088",4,3.1602428502478466,1
+14221,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807932,-84.3846609",4,4.837524931804598,8
+4487,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.780764,-84.3855892",9,0.5083250582937182,11
+3110,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7806786,-84.3826888",2,1.7367893911421672,17
+12709,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807951,-84.3841952",8,4.94980263290207,4
+10896,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807885,-84.3849113",5,4.141407231449161,5
+5927,Peachtree Place Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7807811,-84.3840981",5,0.24519857031292336,13
+17452,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7806639,-84.3881153",10,2.3869666502433606,5
+22383,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7806187,-84.3885373",8,3.6511417357953677,0
+17537,Peachtree Place Northwest,footway,"https://www.google.com/maps/search/?api=1&query=33.7804541,-84.3904689",4,3.7561719467383057,11
+9333,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.780559,-84.3890968",1,1.6082962111557153,17
+2169,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.780729,-84.387509",3,3.4631517399807654,8
+11774,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7807182,-84.3876154",5,4.041172101968449,8
+1805,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7806834,-84.3879338",3,2.6733824801863717,11
+16166,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.780569,-84.389",7,2.9067942149213977,5
+13415,Peachtree Place Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7805813,-84.3888916",7,4.589332272601671,1
+6643,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7706888,-84.3850719",4,2.8021092609298313,8
+10072,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723375,-84.3849035",4,1.129377233701121,3
+10071,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.77217,-84.3849179",5,4.902789185750561,8
+9776,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7711796,-84.3850296",9,3.5239129334329435,5
+12330,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7769509,-84.3844554",7,2.4840541739147093,16
+12559,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7818548,-84.3840079",10,0.8345676225299226,15
+8782,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7713946,-84.3850029",4,1.267071572544064,8
+8740,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.778451,-84.3843134",3,1.325913540143463,9
+13215,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7761064,-84.3845356",9,2.472047881287592,18
+8586,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7712886,-84.3850163",5,2.007686640760913,16
+13668,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7777015,-84.3843843",6,0.2055723794123554,15
+13856,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7808607,-84.3840873",6,3.178032036890995,3
+7834,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7794908,-84.3842159",7,1.960752207326516,4
+14134,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7788659,-84.3842743",5,3.0029568207834503,14
+14204,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7773562,-84.384417",7,0.14991630737019923,7
+14305,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7817186,-84.3840244",8,1.789880057232629,9
+7289,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.782427,-84.3839521",2,3.82077891057237,6
+14808,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7815872,-84.3840404",10,1.6347447831793027,19
+14858,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.776155,-84.384531",10,2.7162039523852632,3
+7135,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7730406,-84.3848348",10,1.73722225003473,0
+15068,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7767942,-84.3844703",7,1.3920741841281647,5
+24232,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7807003,-84.3841091",10,4.157966218767762,19
+6847,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7762049,-84.3845263",4,4.607315493618619,13
+5475,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7807811,-84.3840981",4,1.8611742470978365,4
+5368,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7736907,-84.3847802",4,0.7546475918872264,13
+16821,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7805038,-84.3841262",1,4.218599942516054,1
+17473,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7774084,-84.3844121",5,0.28616967207469757,6
+17541,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7749657,-84.3846465",4,3.1124794489191387,3
+17630,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7743098,-84.3847168",8,1.0397814091487423,8
+4324,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.779526,-84.384212",3,4.4668955552396215,0
+19766,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7736173,-84.3847861",8,2.7378295626124083,18
+19990,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.774916,-84.3846522",5,3.5513831319555864,2
+20199,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7745526,-84.3846892",7,3.231428726013413,12
+3228,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7773225,-84.3844199",7,4.232171235430652,8
+20716,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7785731,-84.3843022",4,2.645063568478039,15
+2186,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7737521,-84.3847746",1,1.7556407183514144,18
+1956,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7801221,-84.3841595",4,4.2473510881327945,0
+1543,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7785227,-84.384307",6,2.895747826094831,17
+22444,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7743242,-84.3847153",6,0.6831339204813736,12
+22627,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7728578,-84.3848514",6,0.7249494087773312,18
+1242,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7795785,-84.384207",10,1.088168046202116,17
+23582,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.772933,-84.3848438",3,0.3488224638065207,11
+11022,Peachtree Street Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7748672,-84.3846578",3,0.479637229302724,16
+10950,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.773229,-84.3817108",1,4.1620392256865415,0
+1006,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7733145,-84.3817025",1,4.509149540379763,7
+3087,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7736094,-84.3816738",4,2.4941231327762834,19
+478,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.77466,-84.3815712",8,1.1740879551676575,14
+1803,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7738155,-84.3816537",3,0.6305920913576202,8
+7165,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7711676,-84.3818933",6,1.5335893835560677,17
+17706,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7727341,-84.3817592",6,3.157476400981251,18
+7385,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.772501,-84.3817824",1,3.4158750714187134,0
+21411,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7751293,-84.3815262",8,2.2059424204131153,7
+7977,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7726265,-84.381768",1,2.823412833178296,8
+4011,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7730042,-84.3817328",8,4.864491365996583,9
+20632,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.773434,-84.3816908",2,2.1233397622094974,17
+12972,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.774718,-84.381566",3,0.33000317182328986,8
+12227,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7709912,-84.3818952",4,2.669274166499822,10
+13217,Piedmont Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.773463,-84.381688",10,1.8154979555551332,12
+12539,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7724735,-84.3834437",1,4.011150455637624,11
+1250,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723357,-84.3843202",10,0.523320240565841,14
+17009,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723138,-84.3872511",2,1.4982806413126148,3
+12538,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723772,-84.3840819",10,2.1413838436335206,13
+16569,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722714,-84.3862505",8,2.9462062268552867,10
+12435,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723588,-84.3842116",6,3.0654240327854976,2
+18438,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722457,-84.3849109",8,0.6065139716093826,19
+10283,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722457,-84.3849109",7,3.8452256211038427,7
+19875,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722916,-84.3867242",2,3.0523418888204743,0
+14854,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722414,-84.3847746",5,0.8871070032421036,11
+8756,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722541,-84.3855728",4,1.580394920167587,3
+19342,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722563,-84.3856907",7,1.134371495057579,4
+19332,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7724005,-84.3838451",1,3.4755271662177654,4
+23665,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.772424,-84.383306",2,1.5324257267113461,1
+21166,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.772252,-84.3850268",4,3.1257054951140484,19
+1167,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723603,-84.3834388",6,0.215810508524521,1
+22750,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722657,-84.386111",3,2.929736349489173,1
+7049,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722691,-84.3861947",3,2.6430398504230412,5
+15394,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722663,-84.3861257",2,1.075755561675933,18
+4987,Ponce de Leon Avenue Northeast,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722537,-84.3852811",6,1.6709698800168216,15
+4405,Ponce de Leon Avenue Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7724259,-84.3887506",3,3.8800577362956457,6
+12999,Ponce de Leon Avenue Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723772,-84.3881058",8,1.288446549791259,2
+13644,Ponce de Leon Avenue Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723282,-84.3874793",9,2.4115314833140387,6
+17405,Ponce de Leon Avenue Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723756,-84.3880856",1,0.360080061631205,0
+23292,Ponce de Leon Avenue Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723184,-84.3873528",2,2.6976191526026785,13
+22304,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7719315,-84.3848484",4,0.05097024939361705,4
+4167,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721482,-84.384849",9,3.0624209895929644,14
+22260,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721985,-84.3847801",4,2.0772259654502445,4
+7930,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721592,-84.3848437",5,1.7069918524650396,7
+4892,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7721923,-84.3845091",7,3.038670227998014,13
+2467,Ponce Triangle,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7720655,-84.3847145",7,4.804476165749859,18
+17472,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7773618,-84.384504",1,2.1027912342026935,9
+11434,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774541,-84.385871",9,0.92900704427055,12
+19666,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7773516,-84.3843454",8,3.2893285139348927,8
+19811,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7775442,-84.3871846",1,1.1642633255513934,13
+9650,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7772662,-84.3829417",1,1.3948418266338247,1
+14794,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7775204,-84.3867661",2,3.5402991697967323,17
+7032,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7772007,-84.3820817",3,2.0242102155991093,12
+14075,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7775536,-84.3872945",7,2.597970637796717,5
+11852,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774585,-84.385933",1,1.5157107747767773,8
+16609,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7772544,-84.3827684",5,0.7753235098488431,6
+5396,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7773562,-84.384417",10,1.0714853349690945,5
+4712,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7773227,-84.3838711",8,4.138929826650224,3
+20984,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7772888,-84.3833135",2,1.1620098583908212,1
+6417,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774144,-84.3852826",7,2.2310877344759783,7
+4124,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7774508,-84.385824",3,2.839665482252135,4
+844,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7773986,-84.3850488",9,4.059653210052781,3
+17997,Sixth Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7772592,-84.3828269",7,1.0710716672253984,9
+15005,Sixth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7778301,-84.3894098",4,3.618828454162731,5
+12942,Sixth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7778286,-84.3897084",2,3.4625654486937876,2
+14934,Sixth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7778299,-84.3892545",2,2.741309635362134,18
+11854,Sixth Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7778279,-84.3888727",4,0.6675780517356356,1
+10272,Spring Street Northwest,primary,"https://www.google.com/maps/search/?api=1&query=33.7711209,-84.3888414",5,2.0734727296579947,15
+16046,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7794901,-84.3888084",1,1.5249880819665529,1
+7516,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7780852,-84.3887821",2,3.074689576971399,0
+16310,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723678,-84.3888415",1,3.575546210339149,6
+5645,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7810812,-84.3890917",3,3.2221484346272646,5
+14160,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7724231,-84.3888413",3,4.57069885299018,15
+5258,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7751922,-84.3888177",7,3.461925044528018,13
+7786,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7815064,-84.3891731",10,4.463623384798905,14
+23837,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.775115,-84.388818",2,4.657329815948627,15
+8311,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.773242,-84.3888361",9,4.647189032377998,19
+17816,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.776842,-84.388793",5,1.6555692480348483,16
+17990,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7761607,-84.3888025",4,0.8417749443942546,19
+13414,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7806442,-84.3890134",6,1.9602998009375527,17
+4425,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7795655,-84.3888227",10,3.570816779401369,11
+18109,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7791795,-84.3887748",2,4.7794767510038,12
+4406,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7725069,-84.3888409",4,4.620286454946655,4
+18327,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7725844,-84.3888404",5,1.4547058202838303,3
+4288,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7778274,-84.3887828",9,0.5699101307922372,18
+18555,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7737985,-84.3888324",3,4.902224695388355,15
+13231,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7729633,-84.3888378",9,4.614885236076839,7
+24278,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7738811,-84.3888318",3,3.9465412125009647,2
+219,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.780569,-84.389",3,0.7586597026955166,17
+19600,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7718536,-84.3888431",10,2.8323793130347275,12
+19797,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7775901,-84.3887846",2,0.016807105562898217,4
+3715,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7758412,-84.3888086",7,4.33928265052217,3
+20333,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7729125,-84.3888382",8,0.8823081086774209,7
+10930,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.776748,-84.3887943",7,4.68632373874339,11
+3172,Spring Street Northwest,primary,"https://www.google.com/maps/search/?api=1&query=33.771239,-84.388845",7,4.883360503177133,19
+2992,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7720048,-84.3888426",1,3.932032361362233,9
+2984,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7769165,-84.3887928",8,0.5330293343969816,19
+21159,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7804991,-84.3889878",1,2.4367616573157456,16
+9027,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7719049,-84.3888426",4,4.328164972653968,8
+2798,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7727453,-84.3888393",10,3.9581228346274075,17
+21413,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.781258,-84.3891234",2,1.0165365487178246,7
+21627,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7750524,-84.3888186",5,3.0068551501540552,5
+21659,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7790922,-84.388769",9,3.649208734822331,6
+2035,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7758859,-84.388808",10,4.450960216289042,16
+21837,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7816326,-84.3892016",2,0.5751662931257573,11
+21963,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7730786,-84.3888371",2,0.22129836136856706,16
+10066,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7813866,-84.3891461",8,3.4594850254352028,4
+10863,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7796192,-84.3888336",2,2.5952788062909207,18
+11889,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7739546,-84.3888313",4,4.7662538577231786,3
+11853,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7780485,-84.3887828",4,3.4413569894669704,4
+15101,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7713506,-84.3888447",7,4.148550800092714,7
+15221,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7736655,-84.3888333",10,0.9926535771291456,6
+7133,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7820111,-84.3892271",9,4.8782050779623445,15
+7044,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7759541,-84.3888054",2,0.9256400946741505,16
+15417,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7731228,-84.3888368",1,2.341813720860273,4
+15614,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7730411,-84.3888373",8,1.5848345320340673,14
+10710,Spring Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.77841,-84.3887763",9,4.753798656449662,0
+10715,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736907,-84.3847802",2,1.5554813000483358,12
+3722,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736996,-84.3846895",4,0.22865963646698018,4
+20357,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7735845,-84.383193",10,1.5531564570765388,11
+20633,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7734715,-84.3817782",8,3.3789236662059032,0
+14434,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.773766,-84.3864157",7,4.459174463340291,13
+8366,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736474,-84.3838661",1,4.603462157093478,2
+2972,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736111,-84.3832916",4,4.046724406735517,1
+19446,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7735336,-84.3826553",3,3.603337738163402,16
+3723,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736406,-84.3837581",2,4.5548361005298466,13
+21329,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737688,-84.3864629",8,2.499414645995347,7
+4117,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737458,-84.3860717",8,0.016715655828598575,14
+3859,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.773463,-84.381688",5,3.9961911341666436,6
+10740,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736273,-84.3835477",7,2.454282613863393,3
+22618,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737168,-84.385533",9,1.7870579193547043,4
+2187,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7736835,-84.3848822",3,0.4248374764508023,11
+17916,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7735686,-84.3831214",1,1.3916337106061105,15
+24383,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7738329,-84.3873345",7,4.600562906463327,3
+11949,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7735245,-84.382527",8,0.5867169599487798,6
+15655,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.77363,-84.3835908",5,4.2368947615262345,19
+1962,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737544,-84.3862159",1,1.1000551456508634,14
+13327,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737519,-84.3861724",1,2.6745752257998645,6
+1826,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7734596,-84.3816012",1,1.2502902575711927,10
+3950,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7737275,-84.3857539",4,0.2888839225653239,15
+20534,Third Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7738128,-84.3871895",8,0.6436958910880086,5
+1400,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738501,-84.3874595",8,1.9645463512170058,0
+1162,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738642,-84.3882203",5,4.085825013999802,5
+21234,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.773899,-84.3895587",9,0.5114479439597941,7
+1771,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738604,-84.3879442",1,3.792760710111467,0
+23692,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738611,-84.3879969",3,4.651162285040744,5
+11890,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.773892,-84.3889452",6,0.14286369507511387,2
+13235,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738656,-84.3883148",2,2.908479085092802,8
+18999,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738625,-84.3880972",9,2.064882220831694,7
+16374,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738714,-84.3887328",5,2.227507509608224,19
+9910,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738811,-84.3888318",2,3.293331888138986,7
+22107,Third Street Northwest,residential,"https://www.google.com/maps/search/?api=1&query=33.7738972,-84.3894023",1,3.202119126117693,15
+14873,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724337,-84.3871976",1,4.9107151546568115,18
+13382,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729792,-84.3858981",4,4.4699215617806844,19
+13537,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724824,-84.3862714",8,2.9658722119307814,16
+20624,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724854,-84.3863116",5,1.4393807352269028,7
+4687,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7723735,-84.3862827",9,2.541691306648892,2
+8852,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729435,-84.3859016",5,3.0745794855320696,9
+20700,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7725203,-84.3868792",9,4.442165322031,15
+20886,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730365,-84.3863322",8,1.7727512512342003,2
+17877,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731614,-84.3865248",4,2.9353125972884273,15
+12691,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7727651,-84.3871868",6,4.406995464674546,8
+17775,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724317,-84.3863887",4,3.7716085947284315,17
+21086,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730114,-84.3868302",3,1.659100930091808,10
+2832,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731099,-84.3857343",3,1.025803867285926,19
+4746,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729651,-84.3862224",4,4.787542058951443,10
+6203,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724697,-84.3871969",9,2.466505986496389,3
+17228,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7732036,-84.3871719",9,1.1591036274312128,13
+24281,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7723997,-84.3871987",7,3.3531160164970775,7
+6454,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729699,-84.3857599",10,1.7040607546936304,7
+1838,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729746,-84.3858301",5,2.0895423121504777,19
+13953,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730064,-84.3867575",8,1.104052614298412,5
+9766,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724907,-84.3863828",9,3.2190261244082596,5
+5237,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731082,-84.3857008",3,1.6097533984481704,5
+1747,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.772515,-84.3868023",9,2.3465699752608273,16
+22115,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729678,-84.3862634",3,0.04895300975686134,5
+22254,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7724607,-84.3868078",7,4.476481316108826,19
+17058,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7736135,-84.3856868",7,4.790620416870839,0
+1442,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7728794,-84.3871829",1,2.878515109280376,9
+19240,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730504,-84.3865359",5,1.0299715820831656,1
+4094,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730002,-84.3857569",3,1.152386266958838,0
+4054,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731745,-84.386726",9,3.7755456610031626,0
+3971,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7736235,-84.3858405",8,1.7836572655435123,5
+205,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7730654,-84.3867516",9,1.8208846499529063,7
+13360,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729971,-84.3857114",6,2.495225010819906,0
+19997,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7736184,-84.3857619",10,3.03693160646064,4
+13066,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7729729,-84.3863384",10,1.5916413081095537,1
+3755,Tower Square Plaza,pedestrian,"https://www.google.com/maps/search/?api=1&query=33.7731199,-84.385888",8,3.1000078943328138,1
+13614,Tuscany Court,residential,"https://www.google.com/maps/search/?api=1&query=33.7803185,-84.3825207",9,0.1669165920559601,12
+8591,Tuscany Court,residential,"https://www.google.com/maps/search/?api=1&query=33.7803114,-84.3821191",1,2.140327754796707,2
+7026,Tuscany Court,residential,"https://www.google.com/maps/search/?api=1&query=33.7803196,-84.3825837",4,2.6713686938673034,8
+18696,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7808016,-84.3875416",4,3.1457786584905065,7
+1401,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7737158,-84.387336",3,2.0595100293510193,6
+10989,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7753486,-84.3873194",1,3.0921195962318704,17
+14488,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7775536,-84.3872945",9,3.229112227594811,6
+691,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.775881,-84.387313",3,0.5852342300573277,10
+2593,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7751731,-84.3873216",7,4.76186276971821,18
+15473,West Peachtree Street Northwest,primary,"https://www.google.com/maps/search/?api=1&query=33.7706883,-84.3874275",9,4.981764309400108,0
+17008,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7722351,-84.3873582",7,1.7572837680375875,9
+16988,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7796417,-84.3872726",4,1.5679000643589514,10
+6054,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7739245,-84.3873333",10,4.6295700504127915,16
+15622,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.778021,-84.387291",2,1.6202330172098312,8
+22834,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7776208,-84.3872941",4,2.7287790000802756,5
+7764,West Peachtree Street Northwest,primary,"https://www.google.com/maps/search/?api=1&query=33.7711421,-84.3874224",6,4.903702468716405,0
+11448,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7724046,-84.3873503",2,3.377309454737617,1
+6736,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7788001,-84.3872823",5,2.0474017760414354,2
+19140,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.776334,-84.387309",4,2.9207744741334385,5
+18668,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7787332,-84.3872838",8,0.26267396278223165,0
+15648,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7750351,-84.3873224",5,0.6907407672549393,12
+13183,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7804,-84.387362",6,1.898419254832826,2
+12963,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7747447,-84.3873243",10,4.741829603585962,18
+5317,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.776815,-84.387303",6,1.8000126032300212,11
+21272,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7794743,-84.3872757",8,0.37108866610165103,17
+15714,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7774859,-84.387295",10,3.5973437310726397,10
+7140,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7786608,-84.3872855",2,2.8040308203953925,17
+1942,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7723184,-84.3873528",6,1.42349706018434,11
+10438,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.780729,-84.387509",6,3.4874343901536964,18
+6612,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7721681,-84.387363",7,0.026396626458474737,18
+13141,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7810963,-84.3876731",4,2.915662514181112,3
+11207,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7809646,-84.387615",4,4.715090244256844,5
+22416,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.771271,-84.387421",6,2.223409957237079,4
+23918,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7767495,-84.387304",1,4.774414943431179,13
+24275,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7750909,-84.3873221",5,3.7690241361109997,17
+3924,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7795503,-84.3872751",6,4.79285535748819,13
+1943,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7762445,-84.3873098",5,1.2993125604177436,19
+413,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7815214,-84.3878214",8,0.27126987721396323,19
+12276,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7714054,-84.3874186",7,2.2299274703316563,9
+23239,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7816499,-84.3878353",9,3.418955438470195,19
+16160,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7813677,-84.3877813",5,1.445037120850563,2
+22204,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7746745,-84.3873254",3,1.800947073983421,17
+17475,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7785747,-84.3872876",5,1.978737460708383,4
+7991,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7806659,-84.3874777",9,2.3339461369394443,16
+7586,West Peachtree Street Northwest,secondary,"https://www.google.com/maps/search/?api=1&query=33.7738329,-84.3873345",10,4.546654114376267,13
+8976,Willow Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7712859,-84.3830776",1,1.4964053357385243,10
+11930,Willow Street Northeast,residential,"https://www.google.com/maps/search/?api=1&query=33.7711918,-84.3830847",7,1.5563402950616145,7
